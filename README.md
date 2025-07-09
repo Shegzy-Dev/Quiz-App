@@ -25,8 +25,7 @@ A responsive and interactive web-based quiz application that allows users to tes
 quiz-app/
 ├── index.html
 ├── style.css
-├── script.js
-└── questions.js
+└── script.js
 
 bash
 Copy
